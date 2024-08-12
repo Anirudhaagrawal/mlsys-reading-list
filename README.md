@@ -25,6 +25,8 @@ LayerSkip - https://arxiv.org/abs/2404.16710
 
 Parrot - https://arxiv.org/abs/2405.19888 (Optional)
 
+FlashAttention - https://arxiv.org/abs/2205.14135
+
 ## Multi-Token Prediction 
 
 Lookahead Decoding - https://arxiv.org/abs/2402.02057
@@ -74,13 +76,23 @@ SmoothQuant - https://arxiv.org/abs/2211.10438
 
 DynaQuant - https://arxiv.org/abs/2306.11800
 
+Deep Compression - https://arxiv.org/pdf/1510.00149
+
+Linear Quantization - https://arxiv.org/pdf/1712.05877
+
 # Training Papers
 
-(to be added)
+Alpa - https://arxiv.org/abs/2201.12023
+
+GPipe - https://arxiv.org/abs/1811.06965
+
+Megatron LM - https://arxiv.org/abs/1909.08053
+
+ZeRO - https://arxiv.org/pdf/1910.02054
 
 # Communication Collectives
 
-(to be added)
+Collective Communication review - https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf
 
 # Contribution
 
