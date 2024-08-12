@@ -33,7 +33,7 @@ Medusa - https://arxiv.org/abs/2401.10774
 
 Speculative Decoding - https://arxiv.org/abs/2211.17192
 
-https://arxiv.org/abs/2404.19737
+Multi-Token Prediction - https://arxiv.org/abs/2404.19737
 
 
 ## Multiple LLM and multiple LoRa serving
