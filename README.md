@@ -76,6 +76,11 @@ DynaQuant - https://arxiv.org/abs/2306.11800
 
 # Training Papers
 
+(to be added)
+
+# Communication Collectives
+
+(to be added)
 
 # Contribution
 
