@@ -7,6 +7,12 @@ vLLM - https://arxiv.org/abs/2309.06180
 
 Sarathi-serve - https://arxiv.org/abs/2403.02310
 
+Clipper - https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf
+
+InferLine - https://arxiv.org/abs/1812.01776
+
+FlexGen - https://arxiv.org/abs/2303.06865
+
 ## LLM Inference
 
 Sarathi - https://arxiv.org/abs/2308.16369
@@ -23,9 +29,9 @@ SGLang - https://arxiv.org/html/2312.07104v1
 
 LayerSkip - https://arxiv.org/abs/2404.16710
 
-Parrot - https://arxiv.org/abs/2405.19888 (Optional)
+Parrot - https://arxiv.org/abs/2405.19888
 
-FlashAttention - https://arxiv.org/abs/2205.14135
+Flash Decode - https://arxiv.org/abs/2311.01282
 
 ## Multi-Token Prediction 
 
@@ -68,6 +74,40 @@ Tutel - https://arxiv.org/abs/2206.03382
 
 DeepSpeed-MoE: https://arxiv.org/abs/2201.05596
 
+## Hardware-Aware Algorithm Design
+
+FlashAttention - https://arxiv.org/abs/2205.14135
+
+FlashAttention 2 - https://arxiv.org/abs/2307.08691
+
+FlashAttention 3 - https://tridao.me/publications/flash3/flash3.pdf
+
+Multi Query Attention - https://arxiv.org/abs/1911.02150v1
+
+Grouped Query Attention - https://arxiv.org/abs/2305.13245v3
+
+## Training Papers
+
+Alpa - https://arxiv.org/abs/2201.12023
+
+GPipe - https://arxiv.org/abs/1811.06965
+
+Megatron LM - https://arxiv.org/abs/1909.08053
+
+ZeRO - https://arxiv.org/pdf/1910.02054
+
+Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM - https://arxiv.org/abs/2104.04473
+
+Varuna - https://arxiv.org/abs/2111.04007
+
+Llama 3.1 - https://ai.meta.com/research/publications/the-llama-3-herd-of-models/
+
+PyTorch Distributed - https://arxiv.org/abs/2006.15704
+
+LLM Training Puzzles - https://github.com/srush/LLM-Training-Puzzles?tab=readme-ov-file
+
+# Tiny ML
+
 ## Quantization and Compression
 
 GPTQ - https://arxiv.org/abs/2210.17323
@@ -80,15 +120,6 @@ Deep Compression - https://arxiv.org/pdf/1510.00149
 
 Linear Quantization - https://arxiv.org/pdf/1712.05877
 
-# Training Papers
-
-Alpa - https://arxiv.org/abs/2201.12023
-
-GPipe - https://arxiv.org/abs/1811.06965
-
-Megatron LM - https://arxiv.org/abs/1909.08053
-
-ZeRO - https://arxiv.org/pdf/1910.02054
 
 # Communication Collectives
 
