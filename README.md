@@ -125,6 +125,21 @@ Linear Quantization - https://arxiv.org/pdf/1712.05877
 
 Collective Communication review - https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf
 
+MSCCLang - https://parsa.epfl.ch/course-info/cs723/papers/MSCCLang.pdf
+
+TACCL - https://www.usenix.org/system/files/nsdi23-shah.pdf
+
+An In-Network Architecture for Accelerating
+Shared-Memory Multiprocessor Collectives - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138924
+
+Synthesizing Optimal Collective Algorithms  - https://dl.acm.org/doi/pdf/10.1145/3437801.3441620
+
+
+Breaking the Computation and Communication Abstraction
+Barrier in Distributed Machine Learning Workloads - https://arxiv.org/pdf/2105.05720
+
+
+
 # Contribution
 
 ## Contribute to Our ML Systems Reading List
