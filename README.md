@@ -174,6 +174,34 @@
   - [Link: FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://tridao.me/publications/flash3/flash3.pdf)
   - [Code](https://github.com/Dao-AILab/flash-attention)
 
+
+### Parameter Efficient Fine Tuning Techniques
+
+- **LoRa**  
+  - Conference: ICLR'2022  
+  - [Link: https://arxiv.org/abs/2106.09685](https://arxiv.org/abs/2106.09685)
+
+- **QLoRa**  
+  - Conference: NeurIPS'2023  
+  - [Link: https://arxiv.org/abs/2305.14314](https://arxiv.org/abs/2305.14314)
+
+- **Soft Prompt Tuning**  
+  - Conference: NeurIPS'2021  
+  - [Link: https://arxiv.org/abs/2104.08691](https://arxiv.org/abs/2104.08691)
+
+- **Prefix Tuning**  
+  - Conference: ACL'2021  
+  - [Link: https://arxiv.org/abs/2101.00190](https://arxiv.org/abs/2101.00190)
+
+- **DoRa**  
+  - Conference: ICLR'2024  
+  - [Link: https://arxiv.org/abs/2402.09353](https://arxiv.org/abs/2402.09353)
+
+- **IA3**  
+  - Conference: NeurIPS'2022  
+  - [Link: https://arxiv.org/pdf/2205.05638](https://arxiv.org/pdf/2205.05638)
+
+
 ## Training Papers
 
 - GPipe
