@@ -8,7 +8,7 @@
 - [New Architectures](#new-architectures)
 - [MoE](#moe)
 - [Hardware-Aware Algorithm Design](#hardware-aware-algorithm-design)
-- [Parameter Efficient Fine Tuning Technique](#parameter-efficient-fine-tuning-techniques)
+- [Parameter Efficient Fine Tuning Techniques](#parameter-efficient-fine-tuning-techniques)
 - [Training Papers](#training-papers)
 - [Quantization and Compression](#quantization-and-compression)
 - [Communication Collectives](#communication-collectives)
