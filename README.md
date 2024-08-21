@@ -175,7 +175,7 @@
   - [Code](https://github.com/Dao-AILab/flash-attention)
 
 
-### Parameter Efficient Fine Tuning Techniques
+## Parameter Efficient Fine Tuning Techniques
 
 - LoRa  
   - Conference: ICLR'2022  
